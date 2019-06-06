@@ -1,0 +1,13 @@
+language: сpp
+os:
+- linux
+- osx
+
+compiler:
+- gcc
+- clang
+
+script:
+- make  Stack_PetrovAV
+- make  red-black-tree
+- make  Stack_RozhokVS
