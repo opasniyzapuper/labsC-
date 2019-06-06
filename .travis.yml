@@ -1,6 +1,7 @@
 language: сpp
 os:
 - linux
+- osx
 
 compiler:
 - gcc
@@ -9,4 +10,3 @@ compiler:
 script:
 - make  Stack_PetrovAV
 - make  red-black-tree
-- make  Stack_RozhokVS
