@@ -1,7 +1,6 @@
 language: сpp
 os:
 - linux
-- osx
 
 compiler:
 - gcc
