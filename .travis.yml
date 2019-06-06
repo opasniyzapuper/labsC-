@@ -10,4 +10,4 @@ compiler:
 script:
 - make  Stack_PetrovAV
 - make  red-black-tree
-- make  Stack_RozhokVS
+- make  Stack_RozhokVS1

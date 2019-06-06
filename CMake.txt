@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES red-black-tree.cpp)
 set(SOURSE_FILES Stack_PetrovAV.cpp)
-set(SOURCE_FILES Stack_RozhokVS.cpp)
+set(SOURCE_FILES Stack_RozhokVS1.cpp)
 
 add_executable(labsC- ${SOURCE_FILES})
